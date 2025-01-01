@@ -64,3 +64,6 @@ ultralytics==8.3.56
 ultralytics-thop==2.0.13
 urllib3==2.3.0
 watchdog==6.0.0
+opencv-python-headless
+numpy
+pillow
