@@ -1,3 +1,8 @@
+tensorflow>=2.10.0
+keras>=2.9.0
+numpy>=1.23.1
+setuptools>=58.0.0
+streamlit>=1.25.0
 keras==2.9.0
 numpy==1.23.1
 pillow==11.0.0
